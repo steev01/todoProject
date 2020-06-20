@@ -1,0 +1,102 @@
+body{
+	background
+}
+
+#move{
+	color: red;
+}
+
+#ring{
+	margin-top: ;
+}
+
+#ring .navbar-nav li{
+	padding:10px 10px;
+  color: green;
+}
+
+#ring .navbar-nav .fa{
+	padding:2px 5px;
+  color: green;
+}
+
+#sit{
+	margin-top: 40px;
+}
+
+#run{
+	margin-top: 60px;
+}
+
+#rite{
+margin-left: 120px;
+font-size: 40px;
+color: purple;
+}
+
+#lot{
+	color: purple;
+}
+
+#top{
+	margin-top: 50px;
+	background-color: #79A779;
+	color: white;
+
+}
+
+.active{
+	color: green;
+}
+
+.form{
+	margin-top: 60px;
+}
+
+.bet{
+	background-color: purple;
+}
+
+.rex{
+	color: orange;
+}
+
+input.valid{
+	border-color: #36cc36;
+}
+
+input.invalid{
+	border-color: orange;
+}
+
+input + p{
+	font-family: arial;
+	font-size: 0.9em;
+	font-weight: bold;
+	text-align: center;
+	margin: 0 10px;
+	color: orange;
+	opacity: 0;
+	height: 0;
+}
+
+input.invalid + p{
+	opacity: 1;
+	height: auto;
+	margin-bottom: 20px;
+
+}
+
+/*
+#ring .navbar-nav .fa{
+	color:#fff;
+}
+
+#ring .navbar-nav li{
+	color:#fff;
+	font-family: 'amaranthRegular', sans-serif;
+}
+
+
+
+
